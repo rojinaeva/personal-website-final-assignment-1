@@ -34,6 +34,13 @@ body {
 
 }
 
+.bike-container {
+    display: flex;
+    padding: 2% 10%;
+    margin: 5%;
+
+}
+
 .mission-section {
     display: flex;
 
@@ -68,6 +75,30 @@ body {
 
 .box3 {
     background-color: rgb(71, 136, 50);
+    padding: 3%;
+    border-radius: 10px;
+
+}
+
+.bike1 {
+    border: 1px solid rgb(128, 128, 128, .5);
+    margin-right: 5%;
+    padding: 3%;
+    border-radius: 10px;
+
+}
+
+.bike2 {
+    border: 1px solid rgb(128, 128, 128, .5);
+    margin-right: 5%;
+    padding: 3%;
+    border-radius: 10px;
+
+}
+
+.bike3 {
+    border: 1px solid rgb(128, 128, 128, .5);
+
     padding: 3%;
     border-radius: 10px;
 
